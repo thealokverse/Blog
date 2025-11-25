@@ -1,3 +1,3 @@
 # Blog
 
-[Check out the blog](thealokverse.bearblog.dev)
+[Check out the blog](https://thealokverse.bearblog.dev/)
